@@ -1,0 +1,12 @@
+*.war
+*.ear
+*.iml
+*.class
+.idea/
+.svn/
+target/
+grunt/
+p2p.dat
+.settings/
+.project
+.classpath
